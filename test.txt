@@ -1,0 +1,89 @@
+--- Page 1 ---
+送信完了画⾯ [Online Registration completed]
+⽇本語研修課程のオンラインレジストレーションが完了しました。送信内容は以下のとおりです。
+この画⾯を印刷して、出願書類のひとつとして提出してください。また各⾃コピーを保管してくださ
+い。
+Online registration for the Japanese Language Program is completed. Print out this page
+and submit it to the Center for Japanese Studies. Also, make sure to have a copy of this page
+with you.
+If you do not receive the conﬁrmation email,
+please check the entered email address again.
+ITEM INFORMATION
+Online Registration
+No. (NOT Application
+No.)
+1117
+Registration date 2026-09-17 14:10:33
+A01_Applicant's
+Family Name
+SIU
+A02_Applicant's First
+Name
+MAN TO
+A03_Applicant's
+Middle Name
+A04_Date of Birth 1995/04/02
+A05_Sex 1:Male 男
+A06_Nationality 921:China(HongKong)
+A07_Postal Code 999077
+A08_Present Address
+Address Line 1
+FLAT 4, 20/F, BLK E, LOK NGA COURT, 20 CHUN WAH ROAD, NGAU TAU
+KOK, KOWLOON
+A09_Present Address
+City
+HONG KONG
+A10_Present Address
+State/Province/Region
+HONG KONG
+2026/9/17 下午 1:13 Confirmation of Online Registration
+https://wwwdc01.adst.keio.ac.jp/dc/mf4/mailformv4.php 1/3
+
+--- Page 2 ---
+A11_Present Address
+Country
+CHINA
+A12_Telephone 85290632928
+A13_ApplicantE-mail desmondsiuii@gmail.com
+A14_Status of
+Residence
+A15_Name of
+Institution
+The Chinese University of Hong Kong
+A16_Status 学部卒業：Graduated from Undergraduate Course (Bachelor's degree)
+A17_Country of the
+Institution
+921:China(HongKong)
+A18_Degrees
+Awarded
+Bachelor
+A19_Other degree Bachelor of Engineering
+B01_how to ﬁnd JLP 慶應義塾⼤学のウェブサイト Website
+B01_how to ﬁnd
+JLPInformation Fairs
+B01_how to ﬁnd
+JLPother
+B02_A person
+related to Keio
+B02_A person
+related to Keioother
+B03_why choose JLP 知名度 Publicity
+B03_why choose
+JLPother
+B04_Other
+application
+併願してない NO other application
+B04_Other
+applicationother
+B05_Future plan ⽇本で就職 Work in Japan
+B05_Future
+planother
+http://www.cjs.keio.ac.jp/
+2026/9/17 下午 1:13 Confirmation of Online Registration
+https://wwwdc01.adst.keio.ac.jp/dc/mf4/mailformv4.php 2/3
+
+--- Page 3 ---
+Copyright© Keio University All Rights Reserved.
+2026/9/17 下午 1:13 Confirmation of Online Registration
+https://wwwdc01.adst.keio.ac.jp/dc/mf4/mailformv4.php 3/3
+
